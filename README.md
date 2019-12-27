@@ -1,6 +1,14 @@
 Main Author: Huaqiao Zhang
 Copyright © 2018-2019 VMware, Inc. All Rights Reserved.
 
+# Announcement(声明)
+
+This repository will stop updating, please move to the following repository!
+（本仓库不再更新，所有更新都在EdgeXFoundry官方仓库！下面是链接。）
+
+*   https://github.com/edgexfoundry/edgex-ui-go.git
+
+
 The original repository named simple-local-gateway-console has been upgraded to edgex-foundry-console.
 The future will be based on this new repository.
 
